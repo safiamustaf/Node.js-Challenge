@@ -37,6 +37,12 @@ function generateMarkdown(data) {
 
 
 ${renderLicenseLink(data.licenses)}
+
+* [Contributing](#contributing)
+
+* [Tests](#tests)
+
+* [Questions](#questions)
 `;
 }
 

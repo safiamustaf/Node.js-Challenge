@@ -1,9 +1,9 @@
-# df
+# ds
 
-  ![Repo LIcense](https://img.shields.io/badge/license-MIT-green.svg)
+  
   ## Description
 
-  df
+  ds
 
   ## Table of Contents 
 
@@ -12,6 +12,4 @@
 * [Usage](#usage)
 
 
-
-* [License](#license)
 
